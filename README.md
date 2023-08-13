@@ -1,1 +1,1 @@
-# Bill_Software
+Created a billing software using Python and the tkinter library involves building a graphical user interface (GUI) that allows users to input items, quantities, and prices, and then calculates the total bill. # Bill_Software
